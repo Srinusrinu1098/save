@@ -1,0 +1,50 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0px 4px 16px 0px;
+}
+.button {
+  color: #ea580c;
+  height: 30px;
+  width: 90px;
+  border-radius: 14px;
+  border: opx;
+}
+.label {
+  font-size: 8px;
+}
+.div {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+.error {
+  color: #ff0b37;
+  font-size: 8px;
+  margin: 0px;
+}
+.input {
+  background-color: rgba(255, 11, 55, 0.5);
+  border: 1px solid rgba(255, 11, 55, 0.5);
+  border-radius: 4px;
+}
+.button1 {
+  color: #ea580c;
+  height: 30px;
+  width: 190px;
+  border-radius: 14px;
+  border: opx;
+}
